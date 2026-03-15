@@ -4,15 +4,15 @@ READ ME!
 3. Right-click project → **Run**
 
 Option 2: From Command Line
-```bash
+.       ```bash
 
-# Navigate to project src directory
+Navigate to project src directory
 cd src
 
-# Compile
+Compile
 javac com/sentiment/SentimentAnalyzerApp.java
 
-# Run
+Run
 java com.sentiment.SentimentAnalyzerApp
 
 
@@ -29,7 +29,7 @@ READ ME!! PART 2
 
 
 
-"DONE UPLOADING NLP FILE - "
+DONE UPLOADING NLP FILE - 
 1. CLICK LOAD FILE.
 2. ENTER TEXT AND TEST OUT THE APP
 3. A POSITIVE OR NEGATIVE STATUS WILL HOW DEPENDING ON THE TEXT WRITTEN
