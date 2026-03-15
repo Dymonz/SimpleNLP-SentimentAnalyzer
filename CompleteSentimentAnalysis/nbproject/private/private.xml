@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/index.html</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/model/User.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/model/Feedback.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/utils/DBConnection.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/utils/PasswordUtils.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/dao/UserDAO.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/dao/FeedbackDAO.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/service/SentimentService.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/filter/AuthFilter.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/controller/AuthServlet.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/controller/DashboardServlet.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/src/java/com/sentiment/controller/FeedbackServlet.java</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/login.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/register.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/dashboard.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/feedback-list.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/add-feedback.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/upload-csv.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/upload-result.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/profile.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/index.jsp</file>
+            <file>file:/C:/Users/trist/Downloads/CompleteSentimentAnalysis/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
